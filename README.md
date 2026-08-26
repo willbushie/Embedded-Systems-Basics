@@ -12,18 +12,18 @@ I may change the objectives as I go through them, but everything will be recorde
 
 ### LED Basics
 
-[ ] 0.1 - Blink an LED once every second indefinitely. 
-[ ] 0.2 - Blink two LEDs together once every second indefinitely. 
-[ ] 0.3 - Using two LEDs, alternate which one is on and off once every second indefinitely. 
-[ ] 0.4 - Gradually increase and decrease the brightness of an LED indefinitely. 
-[ ] 0.5 - Blink an LED in the sequence of SOS in morse code. 
-[ ] 0.6 - Blink two LEDs at different rates.
+- [ ] 0.1 - Blink an LED once every second indefinitely. 
+- [ ] 0.2 - Blink two LEDs together once every second indefinitely. 
+- [ ] 0.3 - Using two LEDs, alternate which one is on and off once every second indefinitely. 
+- [ ] 0.4 - Gradually increase and decrease the brightness of an LED indefinitely. 
+- [ ] 0.5 - Blink an LED in the sequence of SOS in morse code. 
+- [ ] 0.6 - Blink two LEDs at different rates.
 
 ### Adding Buttons
 
-[ ] 1.1 - Configure and LED to only be on when a button is actuated. 
-[ ] 1.2 - Toggle an LED on and off with button actuation.
-[ ] 1.3 - Cycle between three distinct blink rates on button actuation. 
-[ ] 1.4 - Configure a 'Faster' and 'Slower' buttons to modify the blink rate of an LED on actuation. 
-[ ] 1.5 - Based on a long or short button actuation, choose different blink rates. 
-[ ] 1.6 - Add button debouncing preventing 
+- [ ] 1.1 - Configure and LED to only be on when a button is actuated. 
+- [ ] 1.2 - Toggle an LED on and off with button actuation.
+- [ ] 1.3 - Cycle between three distinct blink rates on button actuation. 
+- [ ] 1.4 - Configure a 'Faster' and 'Slower' buttons to modify the blink rate of an LED on actuation. 
+- [ ] 1.5 - Based on a long or short button actuation, choose different blink rates. 
+- [ ] 1.6 - Add button debouncing preventing 
