@@ -14,7 +14,7 @@ I may change the objectives as I go through them, but everything will be recorde
 
 - [x] 0.1 - Blink an LED once every second indefinitely. 
 - [x] 0.2 - Blink two LEDs together once every second indefinitely. 
-- [ ] 0.3 - Using two LEDs, alternate which one is on and off once every second indefinitely. 
+- [x] 0.3 - Using two LEDs, alternate which one is on and off once every second indefinitely. 
 - [ ] 0.4 - Gradually increase and decrease the brightness of an LED indefinitely. 
 - [ ] 0.5 - Blink an LED in the sequence of SOS in morse code. 
 - [ ] 0.6 - Blink two LEDs at different rates.
